@@ -22,7 +22,7 @@ This guide explains how to clear cookies, cache, and site data for the current w
 
 ## **Step 3: Clear the Site Data**
 1. On the left side, under **Storage**, click on **Clear site data**.
-2. Make sure **Cookies**, **Local Storage**, **Session Storage**, and **Cache Storage** are ticked.
+2. Make sure **Cookies**, **Local Storage**, **Session Storage**, and **Cache Storage** are ticked at the bottom, and Third party cookies.
 3. Click **Clear site data**.
 
 **Screenshot:**  
